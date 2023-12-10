@@ -1,0 +1,14 @@
+K:\113\ConsoleApp898\bin\Debug\ConsoleApp898.exe.config
+K:\113\ConsoleApp898\bin\Debug\ConsoleApp898.exe
+K:\113\ConsoleApp898\bin\Debug\ConsoleApp898.pdb
+K:\113\ConsoleApp898\obj\Debug\ConsoleApp898.csproj.AssemblyReference.cache
+K:\113\ConsoleApp898\obj\Debug\ConsoleApp898.csproj.CoreCompileInputs.cache
+K:\113\ConsoleApp898\obj\Debug\ConsoleApp898.exe
+K:\113\ConsoleApp898\obj\Debug\ConsoleApp898.pdb
+C:\Users\Maksim\Desktop\ConsoleApp898\bin\Debug\ConsoleApp898.exe.config
+C:\Users\Maksim\Desktop\ConsoleApp898\bin\Debug\ConsoleApp898.exe
+C:\Users\Maksim\Desktop\ConsoleApp898\bin\Debug\ConsoleApp898.pdb
+C:\Users\Maksim\Desktop\ConsoleApp898\obj\Debug\ConsoleApp898.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\ConsoleApp898\obj\Debug\ConsoleApp898.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\ConsoleApp898\obj\Debug\ConsoleApp898.exe
+C:\Users\Maksim\Desktop\ConsoleApp898\obj\Debug\ConsoleApp898.pdb
